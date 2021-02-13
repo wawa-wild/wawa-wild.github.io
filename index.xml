@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forty</title>
+    <title>小宝和墩墩的个人主页</title>
     <link>wawa-wild.github.io/</link>
-    <description>Recent content on Forty</description>
+    <description>Recent content on 小宝和墩墩的个人主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="wawa-wild.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amusement park</title>
+      <link>wawa-wild.github.io/page0/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birthday</title>
+      <link>wawa-wild.github.io/page7/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early days</title>
+      <link>wawa-wild.github.io/page1/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page1/</guid>
+      <description>那时候，我们经常晚上去图书馆，闭馆之后到学生活动中心、创管学院、生院，吃夜宵，玩qq小测试，曾有一段时间还要天天躲避追捕。</description>
+    </item>
+    
+    <item>
+      <title>End of term</title>
+      <link>wawa-wild.github.io/page9/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future</title>
+      <link>wawa-wild.github.io/page11/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page11/</guid>
+      <description>墩墩要奋斗给小宝买的车；我们今后要去的地方。</description>
+    </item>
+    
+    <item>
+      <title>National holiday</title>
+      <link>wawa-wild.github.io/page6/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page6/</guid>
+      <description>国庆假期我们去上隐自助吃螃蟹；可乐撒到电脑里，我们一起拆开维修。</description>
+    </item>
+    
+    <item>
+      <title>New office</title>
+      <link>wawa-wild.github.io/page4/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>wawa-wild.github.io/page2/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page2/</guid>
+      <description>在信息学院一楼自习室，我们一起讨论学习，开始一起工作一起科研。</description>
+    </item>
+    
+    <item>
+      <title>Summer semester</title>
+      <link>wawa-wild.github.io/page3/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page3/</guid>
+      <description>暑学期，我们一起上课、剧本杀、当志愿者……</description>
+    </item>
+    
+    <item>
+      <title>TOEFL test</title>
+      <link>wawa-wild.github.io/page5/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trampoline park</title>
+      <link>wawa-wild.github.io/page8/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winter holiday</title>
+      <link>wawa-wild.github.io/page10/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>wawa-wild.github.io/page10/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
